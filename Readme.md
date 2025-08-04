@@ -14,9 +14,6 @@ This Python project is a basic stock and sales management system developed for s
 ⚙️ Usage
 When the code runs, users are presented with the following options:
 
-sql
-Kopyala
-Düzenle
 1 → Make a Sale  
 2 → Add Product  
 3 → Stock Tracking  
