@@ -21,9 +21,6 @@ Bu Python projesi, küçük marketler veya satış noktaları için geliştirilm
 ⚙️ Kullanım
 Kod çalıştırıldığında kullanıcıya aşağıdaki işlemler sunulur:
 
-mathematica
-Kopyala
-Düzenle
 1 → Satış Yap  
 2 → Ürün Ekle  
 3 → Stok Takibi  
